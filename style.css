@@ -28,3 +28,17 @@ ul{
     position: absolute;
     
 }
+.container{
+    padding: 0%;
+    margin: 0%;
+    object-fit: cover;
+    width: 100vw;
+    height: 80vh;
+}
+.article{
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  display: flex;
+  margin-top: 350px;
+}
